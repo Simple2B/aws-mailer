@@ -6,3 +6,4 @@ python-telegram-bot>=12.6.1
 pyTelegramBotAPI>=3.6.7
 black
 Flask_Mail
+zappa

@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "aws_region": "us-east-2",
+        "profile_name": "default",
+        "project_name": "aws-mailer",
+        "runtime": "python3.8",
+        "s3_bucket": "zappa-n7lq3u4o0"
+    }
+}
